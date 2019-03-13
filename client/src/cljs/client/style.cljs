@@ -16,7 +16,9 @@
               :padding "40px"
               :flex-direction "column"
               :box-shadow "6px 9px 33px -1px rgba(0,0,0,0.38)"
-              :border-radius "8px"}
+              :border-radius "8px"
+              :width "700px"
+              :align-items "center"}
       [:.result :.error {:margin-top "20px"}]
       [:.error {:color "red"
                 :white-space "pre"}]
